@@ -8,4 +8,4 @@ To mine the next block:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;GET http://localhost:5000/mine<br/>
  
 To view the chain:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:5000/chain<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;GET http://localhost:5000/chain<br/>
