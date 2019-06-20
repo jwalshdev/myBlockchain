@@ -1,11 +1,11 @@
 # myBlockchain
 
-To add a new transaction to the next block to be mined:\n
-  POST http://localhost:5000/transactions/new
-  Add a 'raw' body of JSON from the output of getjson.py
+To add a new transaction to the next block to be mined:<br/>
+  POST http://localhost:5000/transactions/new<br/>
+  Add a 'raw' body of JSON from the output of getjson.py<br/>
  
-To mine the next block:
-  GET http://localhost:5000/mine
+To mine the next block:<br/>
+  GET http://localhost:5000/mine<br/>
  
-To view the chain:
-  http://localhost:5000/chain
+To view the chain:<br/>
+  http://localhost:5000/chain<br/>
